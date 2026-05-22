@@ -10,8 +10,7 @@
 ### 🚀 About Me
 - 🔭 Currently working at Reply Leadvise
 - 🌱 Learning everyday
-- 💬 Ask me about AI solutions
-- 📫 Reach me at **ahmed.babay.personal@gmail.com**
+- 💬 [Reach my personal website!](https://ahmed-babay.github.io/ahmed-babay-portfolio/)
 
 ---
 
