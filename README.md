@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working at Reply Leadvise
-- 🌱 Learning everyday
-- 💬 [Reach my personal website!](https://ahmed-babay.github.io/ahmed-babay-portfolio/)
+- 📈 Currently working at Reply Leadvise
+- 💬 [Linkedin Profile](https://www.linkedin.com/in/ahmed-babay-0a6a9b1b1/)
+- 🔭 [Reach my Personal Website!](https://ahmed-babay.github.io/ahmed-babay-portfolio/)
 
 ---
 
@@ -54,13 +54,3 @@
 </p>
 
 ---
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ahmed-babay-0a6a9b1b1/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-babay&color=58A6FF&style=flat-square" alt="Profile views" />
-</p>
