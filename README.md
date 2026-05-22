@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 📈 Currently working at Reply Leadvise
+- 📈 Currently working at Reply Leadvise in Frankfurt am Main, Germany
 - 💬 [Linkedin Profile](https://www.linkedin.com/in/ahmed-babay-0a6a9b1b1/)
 - 🔭 [Reach my Personal Website!](https://ahmed-babay.github.io/ahmed-babay-portfolio/)
 
@@ -22,19 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-babay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-babay&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-babay&theme=tokyonight" />
-</p>
-
----
-
 ### 📈 Contribution Activity
 
 <p align="center">
@@ -44,13 +31,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmed-babay/ahmed-babay/output/snake.svg" alt="Snake animation" />
 </p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-babay&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
