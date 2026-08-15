@@ -19,7 +19,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,fastapi&perline=7" />
 <br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,azure,linux,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,azure,linux,git,github&perline=7" />
 </p>
 
 ---
