@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Babay</h1>
 ---
-### 🚀 About Me
-- 📈 Currently working at Reply Leadvise in Frankfurt am Main, Germany
+- 📈 Currently working at Leadvise Reply in Frankfurt am Main, Germany
+
 - 💬 [Linkedin Profile](https://www.linkedin.com/in/ahmed-babay-0a6a9b1b1/)
 - 🔭 [Reach my Personal Website!](https://ahmed-babay.github.io/ahmed-babay-portfolio/)
 
