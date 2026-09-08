@@ -15,10 +15,3 @@
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,azure,linux,git,github&perline=7" />
 </p>
 
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed-babay/ahmed-babay/output/snake.svg" alt="Snake animation" />
-</p>
